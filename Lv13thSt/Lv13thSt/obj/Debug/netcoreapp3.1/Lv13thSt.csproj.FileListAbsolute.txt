@@ -1,0 +1,13 @@
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/bin/Debug/netcoreapp3.1/Lv13thSt.deps.json
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/bin/Debug/netcoreapp3.1/Lv13thSt.runtimeconfig.json
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/bin/Debug/netcoreapp3.1/Lv13thSt.runtimeconfig.dev.json
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/bin/Debug/netcoreapp3.1/Lv13thSt.dll
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/bin/Debug/netcoreapp3.1/Lv13thSt.pdb
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/obj/Debug/netcoreapp3.1/Lv13thSt.csproj.AssemblyReference.cache
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/obj/Debug/netcoreapp3.1/Lv13thSt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/obj/Debug/netcoreapp3.1/Lv13thSt.AssemblyInfoInputs.cache
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/obj/Debug/netcoreapp3.1/Lv13thSt.AssemblyInfo.cs
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/obj/Debug/netcoreapp3.1/Lv13thSt.csproj.CoreCompileInputs.cache
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/obj/Debug/netcoreapp3.1/Lv13thSt.dll
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/obj/Debug/netcoreapp3.1/Lv13thSt.pdb
+/Users/Dexem/Projects/Lv13thSt/Lv13thSt/obj/Debug/netcoreapp3.1/Lv13thSt.genruntimeconfig.cache

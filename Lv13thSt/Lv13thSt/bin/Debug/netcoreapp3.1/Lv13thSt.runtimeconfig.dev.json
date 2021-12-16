@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Dexem/.dotnet/store/|arch|/|tfm|",
+      "/Users/Dexem/.nuget/packages"
+    ]
+  }
+}
